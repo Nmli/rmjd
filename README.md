@@ -57,7 +57,7 @@
 [200]: https://github.com/rime "RIME作者地址"
 [201]: http://rime.im "rime主页"
 [202]: https://github.com/osfans/ "TRIME作者页面"
-[203]: https://gitee.com/thxnder/xxjd/ "小小键道主页"
+[203]: https://github.com/dgod/yong "小小键道主页"
 [204]: https://github.com/xkjd/rmjd "Rime键道主页"
 
 [901]: https://gitee.com/thxnder/xxjd/blob/master/doc/xkjd3.md "星空键道3 简明教程"
