@@ -45,7 +45,7 @@
 
 ### 键道3可以依赖 落格输入法 运行在
 
-[IOS]
+IOS
 
 [998]: https://gitee.com/thxnder/xxjd/tree/master/release "新版本小小键道"
 [999]: https://github.com/xkjd/rmjd/releases "新版本RIME键道"
