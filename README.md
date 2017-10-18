@@ -6,7 +6,7 @@
 
 「星空键道3」作者：**吅吅大山（大牛）** [访问键道官网][904] [加入QQ群：320053116][903]
 
-「小小键道」 维护者：**[别打脸(thxnder)][203]** [获取最新小小键道>>>][998]
+「小小键道」 维护者：**[别打脸(thxnder)][205]** [获取最新小小键道>>>][998]
 
 「RIME键道」 维护者：**[倾书(Qshu)][204]** [获取最新RIME键道>>>][999]
 
@@ -56,9 +56,10 @@
 
 [200]: https://github.com/rime "RIME作者地址"
 [201]: http://rime.im "rime主页"
-[202]: https://github.com/osfans/ "TRIME作者页面"
-[203]: https://github.com/dgod/yong "小小键道主页"
+[202]: https://github.com/osfans "TRIME作者页面"
+[203]: https://github.com/dgod/yong "小小主页"
 [204]: https://github.com/xkjd/rmjd "Rime键道主页"
+[205]: https://gitee.com/thxnder/xxjd "小小键道主页"
 
 [901]: https://gitee.com/thxnder/xxjd/blob/master/doc/xkjd3.md "星空键道3 简明教程"
 [902]: http://daniushuangpin.ys168.com "吅吅大山的的网盘"
