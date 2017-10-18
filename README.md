@@ -71,11 +71,11 @@
 [201]: http://rime.im "rime主页"
 [202]: https://github.com/osfans "TRIME作者页面"
 [203]: https://github.com/dgod/yong "小小主页"
-[204]: https://github.com/xkjd/rmjd "Rime键道主页"
+[204]: https://coding.net/u/xkjd/p/Rime_JD/git "Rime键道主页"
 [205]: https://gitee.com/thxnder/xxjd "小小键道主页"
 [206]: https://gitee.com/thxnder "「小小键道」 维护者"
 
 [901]: https://gitee.com/thxnder/xxjd/blob/master/doc/xkjd3.md "星空键道3 简明教程"
 [902]: http://daniushuangpin.ys168.com "吅吅大山的的网盘"
 [903]: https://jq.qq.com/?_wv=1027&k=5sTEYIQ "吅吅大山的QQ群"
-[904]: http://xkjd.github.io "键道官网"
+[904]: http://xkjd.coding.me "键道官网"
