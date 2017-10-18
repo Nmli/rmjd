@@ -35,6 +35,14 @@
 
 [Windows(小小)][203]
 
+### 键道3可以依赖 iRime 运行在
+
+[IOS(iRime)][106]
+
+### 键道3可以依赖 落格输入法 运行在
+
+[IOS(iRime)][107]
+
 [998]: https://gitee.com/thxnder/xxjd/tree/master/release "新版本小小键道"
 [999]: https://github.com/xkjd/rmjd/releases "新版本RIME键道"
 
@@ -43,6 +51,8 @@
 [103]: https://github.com/fcitx/fcitx-rime "fcitx-rime for Linux"
 [104]: https://github.com/rime/ibus-rime "ibus-rime for Linux"
 [105]: https://github.com/osfans/trime "同文－TRime 輸入法 for Android"
+[106]: https://github.com/jimmy54/iRime "iRime 輸入法 for IOS"
+[107]: https://itunes.apple.com/cn/app/luo-ge-shu-ru-fa-zhuan-ye/id1140465593?mt=8&ign-mpt=uo%3D8 "落格输入法 for IOS"
 
 [200]: https://github.com/rime "RIME作者地址"
 [201]: http://rime.im "rime主页"
