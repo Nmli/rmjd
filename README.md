@@ -64,7 +64,7 @@
 [104]: https://github.com/rime/ibus-rime "ibus-rime for Linux"
 [105]: https://github.com/osfans/trime "同文－TRime 輸入法 for Android"
 [106]: https://github.com/jimmy54/iRime "iRime 輸入法 for IOS"
-[107]: https://itunes.apple.com/cn/app/luo-ge-shu-ru-fa-zhuan-ye/id1140465593?mt=8&ign-mpt=uo%3D8 "落格输入法 for IOS"
+[107]: https://im.logcg.com/ "落格输入法 for IOS"
 [108]: https://chinput.com/portal.php "多多 for Windows"
 
 [200]: https://github.com/rime "RIME作者地址"
