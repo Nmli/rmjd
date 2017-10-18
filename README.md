@@ -6,7 +6,11 @@
 
 「YONG(小小/永输)」 作者：**[dgod][203]**
 
-> 感谢以上优秀的开源输入平台
+「多多」 作者：**[多多][108]**
+
+「落格」 作者：**[落格][107]**
+
+> 键道3的跨平台使用离不开以上优秀的输入平台
 
 「星空键道3」作者：**吅吅大山（大牛）** [访问键道官网][904] [加入QQ群：320053116][903]
 
@@ -39,13 +43,17 @@
 
 [Windows(小小)][203]
 
+### 键道3可以依赖 多多 运行在
+
+[Windows(多多)][108]
+
 ### 键道3可以依赖 iRime 运行在
 
 [IOS(iRime)][106]
 
 ### 键道3可以依赖 落格输入法 运行在
 
-IOS
+[IOS][107]
 
 [998]: https://gitee.com/thxnder/xxjd/tree/master/release "新版本小小键道"
 [999]: https://github.com/xkjd/rmjd/releases "新版本RIME键道"
@@ -57,6 +65,7 @@ IOS
 [105]: https://github.com/osfans/trime "同文－TRime 輸入法 for Android"
 [106]: https://github.com/jimmy54/iRime "iRime 輸入法 for IOS"
 [107]: https://itunes.apple.com/cn/app/luo-ge-shu-ru-fa-zhuan-ye/id1140465593?mt=8&ign-mpt=uo%3D8 "落格输入法 for IOS"
+[108]: https://chinput.com/portal.php "多多 for Windows"
 
 [200]: https://github.com/rime "RIME作者地址"
 [201]: http://rime.im "rime主页"
