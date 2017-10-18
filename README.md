@@ -36,7 +36,7 @@
 [Windows(小小)][203]
 
 [998]: https://gitee.com/thxnder/xxjd/tree/master/release "新版本小小键道"
-[999]: https://gitee.com/nmlixa/rmjd/releases "新版本RIME键道"
+[999]: https://github.com/xkjd/rmjd/releases "新版本RIME键道"
 
 [101]: https://gitee.com/lotem/weasel "小狼毫－Rime 輸入法 for Windows"
 [102]: https://gitee.com/lotem/squirrel "鼠鬚管－Rime 輸入法 for Mac OS X"
