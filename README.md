@@ -56,7 +56,7 @@
 > 键道3的跨平台使用离不开以上优秀的输入平台
 
 [998]: https://gitee.com/thxnder/xxjd/tree/master/release "新版本小小键道"
-[999]: https://github.com/xkjd/rmjd/releases "新版本RIME键道"
+[999]: https://coding.net/u/xkjd/p/Rime_JD/git "新版本RIME键道"
 
 [101]: https://github.com/rime/weasel "小狼毫－Rime 輸入法 for Windows"
 [102]: https://github.com/rime/squirrel "鼠鬚管－Rime 輸入法 for Mac OS X"
